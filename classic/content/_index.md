@@ -7,22 +7,43 @@ title: Home
   src="/images/partywizard.gif"
   alt="Kellen Face">
 
-# Hugo Classic
+# Noah Carlow
 
-### For text focused goodness
+### Computer Science, Software Engineer
 
-About twenty years ago Jobs and Wozniak, the founders of Apple, came up with the very strange idea of selling information processing machines for use in the home. But around the same time, Bill Gates and Paul Allen came up with an idea even stranger and more fantastical: **selling computer operating systems**.
-
-This was much weirder than the idea of Jobs and Wozniak.
+I am currently enrolled as a Junior in Computer Science, Software Engineering at Arizona State University. I am skilled in C, C++, Java, JavaScript, Python, HTML, and CSS. I have experience in the Web Design Industry and have strong media and communication skills. My minor is focused in Technological Entrepreneurship and Management from the W. P. Carey School of Business. Get to know me below!
 
 ~~~ruby
-def word_up(value)
-  self.class.from_life(name, value, type)
-end
+> Noah.origin
+  => "Gilbert, AZ"
 
-def word_down(value)
-  self.class.from_death(name, value, type)
-end
+> Noah.education
+  => "Arizona State University"
+
+> Noah.major
+  => "Computer Science"
+
+> Noah.minor
+  => "Technological Entrepreneurship"
+
+> Noah.expectedGraduation
+  => "Dec 2021"
+
+> Noah.workExperience.latest
+  => Latest Work Experience
+        company: "SocialTech Consulting"
+        role: "Web Developer"
+        startDate: "June 2017"
+        endDate: "Current"
+
+> Noah.resume
+  => "noahcarlow.pdf"
+
+> Noah.email
+  => "carlownoah@gmail.com"
+
+> Noah.interests
+  => ["Programming", "Building Computers", "Working on Cars", "Space", "Rockets"]
 ~~~
 
 ---
